@@ -1,14 +1,4 @@
-# ImmortalWRT AI Edition
-
-> 纯科技！零手工！敢承诺！
-
-# 高质量<免费>交流群
-
-[IPQ技术讨论群](https://qm.qq.com/q/v7nMhzB4oU)
-
-# 高质量<付费>中转站
-
-[LiBwrt-Ai](https://api.zipimg.cn/register?aff=LR7FSZ2ZZ4D3)
+拉取的感觉还可以的仓库……
 
 # 本地编译器
 
