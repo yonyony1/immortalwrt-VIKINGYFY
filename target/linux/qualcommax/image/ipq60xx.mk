@@ -45,7 +45,7 @@ define Device/8devices_mango-dvk
 	$(call Device/FitImageLzma)
 	DEVICE_VENDOR := 8devices
 	DEVICE_MODEL := Mango-DVK
-	IMAGE_SIZE := 27776k
+	IMAGE_SIZE := 204800k
 	BLOCKSIZE := 64k
 	SOC := ipq6010
 	SUPPORTED_DEVICES += 8devices,mango
